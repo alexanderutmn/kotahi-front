@@ -1,0 +1,33 @@
+.loginContainer {
+  display: flex;
+  flex-grow: 1;
+  height: 100%;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.loginTitle {
+  margin: 0 0 16px 16px;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 40px;
+}
+
+.btnLogin {
+  margin-left: 32px;
+}
+
+.titleHello {
+  margin-left: 64px;
+  font-size: 18px;
+  font-weight: 500;
+  color: #5e9cea;
+  cursor: default;
+}
+
+.createTitle {
+  font-weight: 600;
+  margin-bottom: 1rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid #ddd;
+}

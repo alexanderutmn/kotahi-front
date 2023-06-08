@@ -1,0 +1,38 @@
+.container {
+  width: 100vw;
+  height: 100vh;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 999;
+  background-color: rgba(0, 0, 0, 0.7);
+  transition: all 0.5s ease-in-out;
+  transform: translate(0px, -100%) scale(0, 0);
+  opacity: 0;
+}
+
+.visible {
+  transform: translate(0px, 0px) scale(1, 1);
+  opacity: 1;
+}
+
+.content {
+  padding: 20px;
+  width: 200px;
+  height: 200px;
+  border-radius: 12px;
+  background-color: #FFFFFF;
+}
+
+.btnClose {
+  position: fixed;
+  top: 15px;
+  right: 15px;
+  color: #fff;
+  border-color: #357ebd;
+  opacity: 1;
+  padding: 10px 17px;
+  font-size: 27px;
+  background-color: transparent;
+}
+

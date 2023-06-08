@@ -1,0 +1,58 @@
+.container {
+  display: flex;
+  justify-content: flex-end;
+  padding: 30px;
+  font: 500 13px/20px 'Montserrat', Arial, Helvetica, sans-serif;
+  color: var(--main-font-color);
+  background-color: inherit;
+}
+
+.topPagination {
+  padding: 5px 0 20px 0;
+}
+
+.buttonPage {
+  margin: 0 6px;
+  background-color: inherit;
+  transition: color 300ms ease-in-out;
+}
+
+.btnPrevious {
+  position: relative;
+  margin-right: 14px;
+}
+
+.btnNext {
+  margin-left: 14px;
+}
+
+.btnPreviousNext {
+  background-color: inherit;
+  transition: color 300ms ease-in-out;
+}
+
+.buttonPage:hover, .btnPreviousNext:hover {
+  color: var(--double-dark-font-color);
+}
+
+.icoPrevious {
+  margin-right: 8px;
+  transition: color 50ms ease-in-out;
+}
+
+.icoNext {
+  margin-left: 8px;
+  transition: color 50ms ease-in-out;
+}
+
+.btnPreviousNext:hover .icoPrevious {
+  color: var(--double-dark-font-color);
+}
+
+.btnPreviousNext:hover .icoNext {
+  color: var(--double-dark-font-color);
+}
+
+.activeButton {
+  color: var(--active-font-color)
+}

@@ -1,0 +1,518 @@
+{
+  "editorial_board": [
+    {
+      "position": {
+        "en": "Editor-in-chief",
+        "ru": "Главный редактор"
+      },
+      "name": {
+        "en": "Mintsaev Magomed",
+        "ru": "Минцаев Магомед Шавалович"
+      },
+      "degree": {
+        "en": "Doctor in Engineering",
+        "ru": "Д.т.н."
+      },
+      "organization": {
+        "en": "Federal State Budgetary Educational Institution of Higher Education «Grozny State Oil Technical University named after acad. M.D. Millionshchikov» (GSTOU)",
+        "ru": "ФГБОУ ВО «Грозненский государственный нефтяной технический университет имени академика М.Д. Миллионщикова» (ГГНТУ)"
+      },
+      "image": "./journal_img/editorial_board/journalB/1_Mincaev.jpg"
+    },
+    {
+      "position": {
+        "en": "Associate Editor",
+        "ru": "Зам. главного редактора"
+      },
+      "name": {
+        "en": "Vakhit Akaev",
+        "ru": "Акаев Вахит Хумидович"
+      },
+      "degree": {
+        "en": "Doctor in Philosophy",
+        "ru": "д.ф.н., профессор"
+      },
+      "organization": {
+        "en": "Federal State Budgetary Educational Institution of Higher Education «Grozny State Oil Technical University named after acad. M.D. Millionshchikov» (GSTOU)",
+        "ru": "ФГБОУ ВО «Грозненский государственный нефтяной технический университет имени академика М.Д. Миллионщикова» (ГГНТУ)"
+      },
+      "image": "./journal_img/editorial_board/journalB/2_Akaev.jpg"
+    },
+    {
+      "position": {
+        "en": "Executive Secretary",
+        "ru": "Ответственный секретарь"
+      },
+      "name": {
+        "en": "Madina Barzaeva",
+        "ru": "Барзаева Мадина Ахьятовна"
+      },
+      "degree": {
+        "en": "PhD in Economics",
+        "ru": "к.э.н., доцент"
+      },
+      "organization": {
+        "en": "Federal State Budgetary Educational Institution of Higher Education «Grozny State Oil Technical University named after acad. M.D. Millionshchikov» (GSTOU)",
+        "ru": "ФГБОУ ВО «Грозненский государственный нефтяной технический университет имени академика М.Д. Миллионщикова» (ГГНТУ)"
+      },
+      "image": "./journal_img/editorial_board/journalB/3_Барзаева М.А..jpg"
+    },
+    {
+      "position": {
+        "en": "EDITORIAL COUNCIL - Chairman",
+        "ru": "РЕДАКЦИОННЫЙ СОВЕТ - Председатель"
+      },
+      "name": {
+        "en": "Ibragim Kerimov",
+        "ru": "Керимов Ибрагим Ахмедович"
+      },
+      "degree": {
+        "en": "Doctor in Physics and Mathematics",
+        "ru": "д.ф.-м.н., профессор"
+      },
+      "organization": {
+        "en": "State treasury scientific institution «Academy of Sciences of the Chechen Republic» (AS of CHR)",
+        "ru": "Академия наук Чеченской Республики (АН ЧР)"
+      },
+      "image": "./journal_img/editorial_board/journalB/4_керимов_ибрагим.jpg"
+    },
+    {
+      "position": {
+        "en": "EDITORIAL COUNCIL",
+        "ru": "РЕДАКЦИОННЫЙ СОВЕТ"
+      },
+      "name": {
+        "en": "Boris Grigoryev",
+        "ru": "Григорьев Борис Афанасьевич"
+      },
+      "degree": {
+        "en": "Corresponding member of RAS",
+        "ru": "д.т.н., профессор, член-корреспондент РАН"
+      },
+      "organization": {
+        "en": "LLC «Gazprom VNIIGAZ» (All-Union Scientific Research Institute of Natural Gases)",
+        "ru": "ООО «Газпром ВНИИГАЗ» (Всесоюзный научно-исследовательский институт природных газов)"
+      },
+      "image": "./journal_img/editorial_board/journalB/5_grigoriev.jpg"
+    },
+    {
+      "position": {
+        "en": "EDITORIAL COUNCIL",
+        "ru": "РЕДАКЦИОННЫЙ СОВЕТ"
+      },
+      "name": {
+        "en": "Denis Rechenko",
+        "ru": "Реченко Денис Сергеевич"
+      },
+      "degree": {
+        "en": "Doctor in Engineering",
+        "ru": "д.т.н., профессор"
+      },
+      "organization": {
+        "en": "Almetyevsk State Petroleum Institute (ASOI)",
+        "ru": "ГБОУ ВО «Альметьевский государственный нефтяной институт» (АГНИ)"
+      },
+      "image": "./journal_img/editorial_board/journalB/6_Реченко.png"
+    },
+    {
+      "position": {
+        "en": "EDITORIAL COUNCIL",
+        "ru": "РЕДАКЦИОННЫЙ СОВЕТ"
+      },
+      "name": {
+        "en": "Magomed Pashaev",
+        "ru": "Пашаев Магомед Ярагиевич"
+      },
+      "degree": {
+        "en": "Phd in Engineering",
+        "ru": "к.т.н., доцент"
+      },
+      "organization": {
+        "en": "Federal State Budgetary Educational Institution of Higher Education «Grozny",
+        "ru": "ФГБОУ ВО «Грозненский государственный нефтяной технический университет имени академика М.Д. Миллионщикова» (ГГНТУ)"
+      },
+      "image": "./journal_img/editorial_board/journalB/7_pashaev.jpg"
+    },
+    {
+      "position": {
+        "en": "EDITORIAL COUNCIL",
+        "ru": "РЕДАКЦИОННЫЙ СОВЕТ"
+      },
+      "name": {
+        "en": "Magomed Saidumov",
+        "ru": "Сайдумов Магомед Саламувич"
+      },
+      "degree": {
+        "en": "Phd in Engineering",
+        "ru": "к.т.н., доцент"
+      },
+      "organization": {
+        "en": "Federal State Budgetary Educational Institution of Higher Education «Grozny State Oil Technical University named after acad. M.D. Millionshchikov» (GSTOU)",
+        "ru": "ФГБОУ ВО «Грозненский государственный нефтяной технический университет имени академика М.Д. Миллионщикова» (ГГНТУ)"
+      },
+      "image": "./journal_img/editorial_board/journalB/8_saidumov.jpg"
+    },
+    {
+      "position": {
+        "en": "EDITORIAL BOARD - PHILOSOPHY",
+        "ru": "РЕДАКЦИОННАЯ КОЛЛЕГИЯ - Философия"
+      },
+      "name": {
+        "en": "Maret Betilmurzaeva",
+        "ru": "Бетильмерзаева Марет"
+      },
+      "degree": {
+        "en": "Doctor in Philosophy",
+        "ru": "д.ф.н., доцент"
+      },
+      "organization": {
+        "en": "Federal State Budgetary Educational Institution of Higher Education «Chechen State Pedagogical University» (CSPU)",
+        "ru": "ФГБОУ ВО «Чеченский государственный педагогический университет» (ЧГПУ)"
+      },
+      "image": "./journal_img/editorial_board/journalB/9_бетильмерзаева.png"
+    },
+    {
+      "position": {
+        "en": "EDITORIAL BOARD - PHILOSOPHY",
+        "ru": "РЕДАКЦИОННАЯ КОЛЛЕГИЯ - Философия"
+      },
+      "name": {
+        "en": "Gennady Drach",
+        "ru": "Драч Геннадий Владимирович"
+      },
+      "degree": {
+        "en": "Doctor in Philosophy",
+        "ru": "д.ф.н., профессор"
+      },
+      "organization": {
+        "en": "Federal State Autonomous Educational Institution of Higher Education «Southern Federal University»(SFU)",
+        "ru": "ФГБОУ ВО «Южный федеральный университет» (ЮФУ)"
+      },
+      "image": "./journal_img/editorial_board/journalB/10_Драч.jpg"
+    },
+    {
+      "position": {
+        "en": "EDITORIAL BOARD - PHILOSOPHY",
+        "ru": "РЕДАКЦИОННАЯ КОЛЛЕГИЯ - Философия"
+      },
+      "name": {
+        "en": "Mustapha Bilalov",
+        "ru": "Билалов Мустафа Исаевич"
+      },
+      "degree": {
+        "en": "Doctor in Philosophy",
+        "ru": "д.ф.н., профессор"
+
+      },
+      "organization": {
+        "en": "Federal State Budgetary Educational Institution of Higher Education «Dagestan State University» (DSU)",
+        "ru": "ФГБОУ ВО «Дагестанский государственный университет»(ДГУ)"
+      },
+      "image": "./journal_img/editorial_board/journalB/11_Билалов.jpg"
+    },
+    {
+      "position": {
+        "en": "EDITORIAL BOARD - PHILOSOPHY",
+        "ru": "РЕДАКЦИОННАЯ КОЛЛЕГИЯ - Философия"
+      },
+      "name": {
+        "en": "Murat Keligov",
+        "ru": "Келигов Мурат Юсупович"
+      },
+      "degree": {
+        "en": "Doctor in Philosophy",
+        "ru": "д.ф.н., профессор"
+      },
+      "organization": {
+        "en": "Federal State Budgetary Educational Institution of Higher Education «Grozny State Oil Technical University named after acad. M.D. Millionshchikov» (GSTOU)",
+        "ru": "ФГБОУ ВО «Грозненский государственный нефтяной технический университет имени академика М.Д. Миллионщикова» (ГГНТУ)"
+      },
+      "image": "./journal_img/editorial_board/journalB/12_Келигов.jpg"
+    },
+    {
+      "position": {
+        "en": "EDITORIAL BOARD - PHILOSOPHY",
+        "ru": "РЕДАКЦИОННАЯ КОЛЛЕГИЯ - Философия"
+      },
+      "name": {
+        "en": "Boryat Nanaeva",
+        "ru": "Нанаева Борят Балаудиновна"
+      },
+      "degree": {
+        "en": "Doctor in Philosophy",
+        "ru": "д.ф.н., доцент"
+      },
+      "organization": {
+        "en": "Federal State Budgetary Educational Institution of Higher Education «Chechen State Pedagogical University» (CSPU)",
+        "ru": "ФГБОУ ВО «Чеченский государственный педагогический университет» (ЧГПУ)"
+      },
+      "image": "./journal_img/editorial_board/journalB/13_нанаева.jpg"
+    },
+    {
+      "position": {
+        "en": "EDITORIAL BOARD - PHILOSOPHY",
+        "ru": "РЕДАКЦИОННАЯ КОЛЛЕГИЯ - Философия"
+      },
+      "name": {
+        "en": "Eugeny Nesmeyanov",
+        "ru": "Несмеянов Евгений Ефимович"
+      },
+      "degree": {
+        "en": "Doctor in Philosophy",
+        "ru": "д.ф.н., профессор"
+      },
+      "organization": {
+        "en": "Federal State Budgetary Educational Institution of Higher Education «Don State Technical University» (DonSTU)",
+        "ru": "ФГБОУ ВО «Дагестанский государственный технический университет» (ДГТУ)"
+      },
+      "image": "./journal_img/editorial_board/journalB/14_несмеянов.jpg"
+    },
+    {
+      "position": {
+        "en": "EDITORIAL BOARD - ECONOMICS",
+        "ru": "РЕДАКЦИОННАЯ КОЛЛЕГИЯ - Экономика"
+      },
+      "name": {
+        "en": "Leyla Magomaeva",
+        "ru": "Магомаева Лейла Румановна"
+      },
+      "degree": {
+        "en": "Doctor in Economics",
+        "ru": "д.э.н., доцент"
+      },
+      "organization": {
+        "en": "Federal State Budgetary Educational Institution of Higher Education «Grozny State Oil Technical University named after acad. M.D. Millionshchikov» (GSTOU)",
+        "ru": "ФГБОУ ВО «Грозненский государственный нефтяной технический университет имени академика М.Д. Миллионщикова» (ГГНТУ)"
+      },
+      "image": "./journal_img/editorial_board/journalB/15_магомаева.jpg"
+    },
+    {
+      "position": {
+        "en": "EDITORIAL BOARD - ECONOMICS",
+        "ru": "РЕДАКЦИОННАЯ КОЛЛЕГИЯ - Экономика"
+      },
+      "name": {
+        "en": "Rasul Musaev",
+        "ru": "Мусаев Расул Абдуллаевич"
+      },
+      "degree": {
+        "en": "Doctor in Economics",
+        "ru": "д.э.н., профессор"
+      },
+      "organization": {
+        "en": "Lomonosov Moscow State University (MSU)",
+        "ru": "ФГБОУ ВО «Московский государственный университет имени М. В. Ломоносова» (МГУ)"
+      },
+      "image": "./journal_img/editorial_board/journalB/16_Мусаев.jpg"
+    },
+    {
+      "position": {
+        "en": "EDITORIAL BOARD - ECONOMICS",
+        "ru": "РЕДАКЦИОННАЯ КОЛЛЕГИЯ - Экономика"
+      },
+      "name": {
+        "en": "Tamila Tasueva",
+        "ru": "Тасуева Тамила Сулеймановна"
+      },
+      "degree": {
+        "en": "Doctor in Economics",
+        "ru": "д.э.н., доцент"
+      },
+      "organization": {
+        "en": "Federal State Budgetary Educational Institution of Higher Education «Grozny State Oil Technical University named after acad. M.D. Millionshchikov» (GSTOU)",
+        "ru": "ФГБОУ ВО «Грозненский государственный нефтяной технический университет имени академика М.Д. Миллионщикова» (ГГНТУ)"
+      },
+      "image": "./journal_img/editorial_board/journalB/17_тасуева.jpg"
+    },
+    {
+      "position": {
+        "en": "EDITORIAL BOARD - ECONOMICS",
+        "ru": "РЕДАКЦИОННАЯ КОЛЛЕГИЯ - Экономика"
+      },
+      "name": {
+        "en": "Lalita Idigova",
+        "ru": "Идигова Лалита Мусаевна"
+      },
+      "degree": {
+        "en": "Doctor in Economics",
+        "ru": "д.э.н., профессор"
+      },
+      "organization": {
+        "en": "Federal State Budgetary Educational Institution of Higher Education «Chechen State Pedagogical University» (CSPU)",
+        "ru": "ФГБОУ ВО «Чеченский государственный педагогический университет» (ЧГПУ)"
+      },
+      "image": "./journal_img/editorial_board/journalB/18_Идигова.jpg"
+    },
+    {
+      "position": {
+        "en": "EDITORIAL BOARD - ECONOMICS",
+        "ru": "РЕДАКЦИОННАЯ КОЛЛЕГИЯ - Экономика"
+      },
+      "name": {
+        "en": "Ibragim Idilov",
+        "ru": "Идилов Ибрагим Ирагиевич"
+      },
+      "degree": {
+        "en": "Doctor in Economics",
+        "ru": "д.э.н., профессор"
+      },
+      "organization": {
+        "en": "Federal State Budgetary Educational Institution of Higher Education «Grozny State Oil Technical University named after acad. M.D. Millionshchikov» (GSTOU)",
+        "ru": "ФГБОУ ВО «Грозненский государственный нефтяной технический университет имени академика М.Д. Миллионщикова» (ГГНТУ)"
+      },
+      "image": "./journal_img/editorial_board/journalB/19_идилов.jpg"
+    },
+    {
+      "position": {
+        "en": "EDITORIAL BOARD - ECONOMICS",
+        "ru": "РЕДАКЦИОННАЯ КОЛЛЕГИЯ - Экономика"
+      },
+      "name": {
+        "en": "Zulay Tavbulatova",
+        "ru": "Тавбулатова Зулай Кариевна"
+      },
+      "degree": {
+        "en": "Doctor in Economics",
+        "ru": "д.э.н., доцент"
+      },
+      "organization": {
+        "en": "Federal State Budgetary Educational Institution of Higher Education «Chechen State University» (CSU)",
+        "ru": "ФГБОУ ВО «Чеченского государственного университета им. А.А. Кадырова» (ЧГУ)"
+      },
+      "image": "./journal_img/editorial_board/journalB/20_тавбулатова.jpg"
+    },
+    {
+      "position": {
+        "en": "EDITORIAL BOARD - ECONOMICS",
+        "ru": "РЕДАКЦИОННАЯ КОЛЛЕГИЯ - Экономика"
+      },
+      "name": {
+        "en": "Nokh Tokaev",
+        "ru": "Токаев Нох Хасанбиевич"
+      },
+      "degree": {
+        "en": "Doctor in Economics",
+        "ru": "д.э.н., профессор"
+      },
+      "organization": {
+        "en": "Federal State Budgetary Educational Institution of Higher Education «North Ossetian State University named after K.L. Khetagurova» (NOSU)",
+        "ru": "ФГБОУ ВО «Северо-Осетинский государственный университет им. К.Л. Хетагурова» (СОГУ)"
+      },
+      "image": "./journal_img/editorial_board/journalB/21_Токаев.jpg"
+    },
+    {
+      "position": {
+        "en": "EDITORIAL BOARD - ECONOMICS",
+        "ru": "РЕДАКЦИОННАЯ КОЛЛЕГИЯ - Экономика"
+      },
+      "name": {
+        "en": "Tatyana Tokaeva",
+        "ru": "Токаева Татьяна Ивановна"
+      },
+      "degree": {
+        "en": "Doctor in Economics",
+        "ru": "д.э.н., профессор"
+      },
+      "organization": {
+        "en": "Federal State Budgetary Educational Institution of Higher Education «North Ossetian State University named after K.L. Khetagurova» (NOSU)",
+        "ru": "ФГБОУ ВО «Северо-Осетинский государственный университет им. К.Л. Хетагурова» (СОГУ)"
+      },
+      "image": "./journal_img/editorial_board/journalB/22_токаева.jpg"
+    },
+    {
+      "position": {
+        "en": "EDITORIAL BOARD - ECONOMICS",
+        "ru": "РЕДАКЦИОННАЯ КОЛЛЕГИЯ - Экономика"
+      },
+      "name": {
+        "en": "Timur Yakubov",
+        "ru": "Якубов Тимур Вахаевич"
+      },
+      "degree": {
+        "en": "Doctor in Economics",
+        "ru": "д.э.н. доцент"
+      },
+      "organization": {
+        "en": "Federal State Budgetary Educational Institution of Higher Education «Grozny State Oil Technical University named after acad. M.D. Millionshchikov» (GSTOU)",
+        "ru": "ФГБОУ ВО «Грозненский государственный нефтяной технический университет имени академика М.Д. Миллионщикова» (ГГНТУ)"
+      },
+      "image": "./journal_img/editorial_board/journalB/23_Якубов.jpg"
+    },
+    {
+      "position": {
+        "en": "EDITORIAL BOARD - PEDAGOGICS",
+        "ru": "РЕДАКЦИОННАЯ КОЛЛЕГИЯ - Педагогика"
+      },
+      "name": {
+        "en": "Esmira Alisultanova",
+        "ru": "Алисултанова Эсмира Докуевна"
+      },
+      "degree": {
+        "en": "Doctor in Pedagogics",
+        "ru": "д.п.н."
+      },
+      "organization": {
+        "en": "Federal State Budgetary Educational Institution of Higher Education «Grozny State Oil Technical University named after acad. M.D. Millionshchikov» (GSTOU)",
+        "ru": "ФГБОУ ВО «Грозненский государственный нефтяной технический университет имени академика М.Д. Миллионщикова» (ГГНТУ)"
+      },
+      "image": "./journal_img/editorial_board/journalB/24_алисултанова.jpg"
+    },
+    {
+      "position": {
+        "en": "EDITORIAL BOARD - PEDAGOGICS",
+        "ru": "РЕДАКЦИОННАЯ КОЛЛЕГИЯ - Педагогика"
+      },
+      "name": {
+        "en": "Natalya Moiseenko",
+        "ru": "Моисеенко Наталья Анатольевна"
+      },
+      "degree": {
+        "en": "PhD in Pedagogics",
+        "ru": "к.п.н., доцент"
+      },
+      "organization": {
+        "en": "Federal State Budgetary Educational Institution of Higher Education «Grozny State Oil Technical University named after acad. M.D. Millionshchikov» (GSTOU)",
+        "ru": "ФГБОУ ВО «Грозненский государственный нефтяной технический университет имени академика М.Д. Миллионщикова» (ГГНТУ)"
+      },
+      "image": "./journal_img/editorial_board/journalB/25_Моисеенко.jpg"
+    },
+    {
+      "position": {
+        "en": "EDITORIAL BOARD - PEDAGOGICS",
+        "ru": "РЕДАКЦИОННАЯ КОЛЛЕГИЯ - Педагогика"
+      },
+      "name": {
+        "en": "Timur Vezirov",
+        "ru": "Везиров Тимур Гаджиевич"
+      },
+      "degree": {
+        "en": "Doctor in Pedagogics",
+        "ru": "д.п.н."
+      },
+      "organization": {
+        "en": "Federal State Budgetary Educational Institution of Higher Education «Dagestan State Pedagogical University» (DSPU)",
+        "ru": "ФГБОУ ВО «Дагестанский государственный педагогический университет» (ДГПУ)"
+      },
+      "image": "./journal_img/editorial_board/journalB/26_Везиров.jpg"
+    },
+    {
+      "position": {
+        "en": "EDITORIAL BOARD - PEDAGOGICS",
+        "ru": "РЕДАКЦИОННАЯ КОЛЛЕГИЯ - Педагогика"
+      },
+      "name": {
+        "en": "Ludmila Davydova",
+        "ru": "Давыдова Людмила Николаевна"
+      },
+      "degree": {
+        "en": "Doctor in Pedagogics",
+        "ru": "д.п.н., профессор"
+      },
+      "organization": {
+        "en": "Federal State Budgetary Educational Institution of Higher Education «Astrakhan State University» (ASU)",
+        "ru": "ФГБОУ ВО «Астраханский государственный университет» (АГУ)"
+      },
+      "image": "./journal_img/editorial_board/journalB/27_Davidova.jpg"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+.itemContainer {
+  margin-bottom: 16px;
+  height: 265px;
+  display: flex;
+  align-items: center;
+  overflow: hidden;
+}

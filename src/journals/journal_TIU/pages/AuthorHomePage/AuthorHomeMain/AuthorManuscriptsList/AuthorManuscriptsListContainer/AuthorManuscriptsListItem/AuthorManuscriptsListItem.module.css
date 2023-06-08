@@ -1,0 +1,69 @@
+.collapsable {
+  display: none;
+  opacity: 0;
+  height: 0;
+}
+
+.collapsable.show {
+  display: block;
+  opacity: 1;
+  height: auto;
+  animation: fadeInFromNone 0.5s ease-in-out;
+  transition: all 300ms ease-in-out;
+}
+
+.dateContainer {
+  min-width: 145px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.categoryTitleContainer {
+  width: 210px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.idContainer {
+  width: 315px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.btnDownloadTitle{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.btnDownload {
+  margin: 6px 0;
+  font-size: 14px;
+  line-height: 16px;
+  color: #5e9cea;
+  background: initial;
+}
+
+.btnDownloadIcon {
+  margin-right: 10px;
+}
+
+@keyframes fadeInFromNone {
+  0% {
+    display: none;
+    opacity: 0;
+  }
+
+  1% {
+    display: block;
+    opacity: 0;
+  }
+
+  100% {
+    display: block;
+    opacity: 1;
+  }
+}

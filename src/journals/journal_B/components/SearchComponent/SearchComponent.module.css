@@ -1,0 +1,8 @@
+.btnFilter {
+  color: #999;
+  transition: all 300ms ease-in-out;
+}
+
+.btnFilter:hover {
+  color: #5e9cea;;
+}

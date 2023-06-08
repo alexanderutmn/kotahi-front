@@ -1,0 +1,92 @@
+.containerLogo {
+  height: 48px;
+  padding: 3px;
+  background: #fff;
+}
+
+.imgLogo {
+  border-radius: 6px;
+}
+
+.iconArea {
+  display: flex;
+  flex-grow: 1;
+}
+
+.loginArea {
+  display: flex;
+  align-items: center;
+}
+
+.loginImg {
+  width: 96px;
+}
+
+.titleLogin {
+  margin-right: 16px;
+  font-size: 18px;
+  font-weight: 500;
+  color: inherit;
+  opacity: 0.5;
+}
+
+.titleUser {
+  margin: 0 16px 0 32px;
+  font-size: 18px;
+  font-weight: 500;
+  color: #5e9cea;
+  cursor: default;
+}
+
+.btnLogout {
+  margin: 0 0 0 8px;
+  padding: 5px 24px;
+  color: #fff;
+  background-color: #5e9cea;
+  border-radius: 4px;
+}
+
+.btnLogin {
+  cursor: pointer;
+  background-color: inherit;
+}
+
+.btnSearch {
+  background-color: inherit;
+  cursor: pointer;
+}
+
+.navMenu {
+  margin-right: 64px;
+}
+
+.btnMenuItem {
+  height: 24px;
+  display: flex;
+  margin-left: 32px;
+  margin-bottom: 16px;
+  padding-top: 13px;
+  align-items: center;
+  background-color: inherit;
+  border-radius: 6px;
+}
+
+.subMenuMobile {
+  margin-top: 4px;
+  border-radius: 6px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, .1) inset;
+}
+
+@media (max-width: 576px) {
+  .rowMobile {
+    padding-top: 50px;
+  }
+  .btnvideo {
+    top: -40px;
+    left: 25px;
+    height: 60px;
+    padding-top:5px;
+    transform: rotate(0deg)
+  }
+}
+

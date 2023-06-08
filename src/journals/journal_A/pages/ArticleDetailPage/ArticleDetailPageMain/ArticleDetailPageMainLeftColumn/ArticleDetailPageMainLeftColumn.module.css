@@ -1,0 +1,36 @@
+.sliderWrapper {
+  display: flex;
+  flex-direction: column-reverse;
+}
+
+.containerSwiperNavigation {
+  display: flex;
+  flex-grow: 1;
+  justify-content: center;
+  margin-top: 16px;
+}
+
+.btnDownloadTitle{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.btnDownload {
+  margin: 6px 0;
+  font-size: 14px;
+  line-height: 16px;
+  color: #5e9cea;
+  background: initial;
+}
+
+.btnDownloadIcon {
+  margin-right: 10px;
+}
+
+.idContainer {
+  display: flex;
+  justify-content: flex-end;
+  color: #5e9cea;
+  cursor: pointer;
+}

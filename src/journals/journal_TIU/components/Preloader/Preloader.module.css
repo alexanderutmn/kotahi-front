@@ -1,0 +1,12 @@
+.blockPreloader {
+  display: flex;
+  width: 100%;
+  z-index: 10;
+  background: #fff;
+}
+
+.blockLoader {
+  height: 20px;
+  width: 250px;
+  margin: auto;
+}

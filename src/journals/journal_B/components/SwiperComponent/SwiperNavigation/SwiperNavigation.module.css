@@ -1,0 +1,53 @@
+.container{
+  display: flex;
+  width: auto;
+  background: inherit;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.button {
+  display: flex;
+  width: 24px;
+  height: 24px;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  border: 1px solid #dedede;
+  transition: all 300ms ease-in-out;
+  background: inherit;
+}
+
+.button:focus{
+  outline: none;
+}
+
+.buttonViewAllContainer {
+  display: flex;
+  flex-grow: 1;
+  justify-content: center;
+  align-items: center;
+}
+
+.buttonViewAll {
+  font-size: 14px;
+  font-weight: 500;
+  color: #5e9cea;
+  background: inherit;
+}
+
+.buttonViewAll:focus{
+  outline: none;
+}
+
+.button:hover {
+  border-color: #5e9cea;
+  background-color: #5e9cea;
+}
+
+.button:hover i{
+  color:white !important;
+}
+
+.btnTitle {
+  margin: 0 0.5rem;
+}

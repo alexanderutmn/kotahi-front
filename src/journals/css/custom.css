@@ -1,0 +1,30 @@
+.sj-loginarea{
+    display: none;
+}
+
+.sj-userloginarea{
+    display: block;
+}
+
+.sj-userloginarea a{
+    padding: 0;
+}
+
+.sj-userloginarea img {
+    width: unset;
+    float: unset;
+    border-radius: unset;
+    margin: 0;
+    border: unset;
+}
+.sj-login-img img{
+    height: 44px;
+    margin-left: 13px;
+}
+
+@media only screen and (max-width: 480px) {
+    .sj-login-img img{
+        height: 50px;
+        margin: 18px 0;
+    }
+}

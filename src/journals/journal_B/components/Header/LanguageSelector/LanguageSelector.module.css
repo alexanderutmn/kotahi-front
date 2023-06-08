@@ -1,0 +1,12 @@
+.container {
+  width: 180px;
+}
+
+@media (max-width: 576px) {
+  .container {
+    margin-left: 10px;
+    display: flex;
+    width: 120px;
+    align-items: flex-start;
+  }
+}

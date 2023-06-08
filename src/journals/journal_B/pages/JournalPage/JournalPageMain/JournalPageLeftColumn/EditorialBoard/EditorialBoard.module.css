@@ -1,0 +1,30 @@
+.swiperNavigationMobile {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.containerSwiperNavigation {
+  display: flex;
+  flex-grow: 1;
+  justify-content: flex-end;
+}
+
+.containerSwiperNavigationMobile {
+  margin-top: 1rem;
+  display: flex;
+  justify-content: center;
+}
+
+.editorList {
+  justify-content: center;
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: 80px;
+}
+
+.containerItem {
+  width: 33%;
+  min-width: 250px;
+  margin-bottom: 24px;
+}

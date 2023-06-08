@@ -1,0 +1,612 @@
+{
+  "editorial_board": [
+    {
+      "position": {
+        "en": "Editor-in-chief",
+        "ru": "Главный редактор"
+      },
+      "name": {
+        "en": "Mintsaev Magomed",
+        "ru": "Минцаев Магомед Шавалович"
+      },
+      "degree": {
+        "en": "Doctor in Engineering",
+        "ru": "Д.т.н."
+      },
+      "organization": {
+        "en": "Federal State Budgetary Educational Institution of Higher Education «Grozny State Oil Technical University named after acad. M.D. Millionshchikov» (GSTOU)",
+        "ru": "ФГБОУ ВО «Грозненский государственный нефтяной технический университет имени академика М.Д. Миллионщикова» (ГГНТУ)"
+      },
+      "image": "./journal_img/editorial_board/journalA/1_Mincaev.jpg"
+    },
+    {
+      "position": {
+        "en": "Associate Editor",
+        "ru": "Зам. главного редактора"
+      },
+      "name": {
+        "en": "Said-Alvi Murtazaev",
+        "ru": "Муртазаев Сайд-Альви Юсупович"
+      },
+      "degree": {
+        "en": "Doctor in Engineering",
+        "ru": "д.т.н., профессор"
+      },
+      "organization": {
+        "en": "Federal State Budgetary Educational Institution of Higher Education «Grozny State Oil Technical University named after acad. M.D. Millionshchikov» (GSTOU)",
+        "ru": "ФГБОУ ВО «Грозненский государственный нефтяной технический университет имени академика М.Д. Миллионщикова» (ГГНТУ)"
+      },
+      "image": "./journal_img/editorial_board/journalA/2_Murtazaev.jpg"
+    },
+    {
+      "position": {
+        "en": "Executive Secretary",
+        "ru": "Ответственный секретарь"
+      },
+      "name": {
+        "en": "Madina Salamanova",
+        "ru": "Саламанова Мадина Шахидовна"
+      },
+      "degree": {
+        "en": "PhD in Engineering",
+        "ru": "к.т.н., доцент"
+      },
+      "organization": {
+        "en": "Federal State Budgetary Educational Institution of Higher Education «Grozny State Oil Technical University named after acad. M.D. Millionshchikov» (GSTOU)",
+        "ru": "ФГБОУ ВО «Грозненский государственный нефтяной технический университет имени академика М.Д. Миллионщикова» (ГГНТУ)"
+      },
+      "image": "./journal_img/editorial_board/journalA/3_Cаламанова.jpg"
+    },
+    {
+      "position": {
+        "en": "EDITORIAL COUNCIL - Chairman",
+        "ru": "РЕДАКЦИОННЫЙ СОВЕТ - Председатель"
+      },
+      "name": {
+        "en": "Ibragim Kerimov",
+        "ru": "Керимов Ибрагим Ахмедович"
+      },
+      "degree": {
+        "en": "Doctor in Physics and Mathematics",
+        "ru": "д.ф-м.н., профессор"
+      },
+      "organization": {
+        "en": "State treasury scientific institution «Academy of Sciences of the Chechen Republic» (AS of CHR)",
+        "ru": "Академия наук Чеченской Республики (АН ЧР)"
+      },
+      "image": "./journal_img/editorial_board/journalA/4_Керимов_Ибрагим.jpg"
+    },
+    {
+      "position": {
+        "en": "EDITORIAL COUNCIL",
+        "ru": "РЕДАКЦИОННЫЙ СОВЕТ"
+      },
+      "name": {
+        "en": "Boris Grigoryev",
+        "ru": "Григорьев Борис Афанасьевич"
+      },
+      "degree": {
+        "en": "Corresponding member of RAS, Doctor in Engineering",
+        "ru": "д.т.н., профессор, член-корреспондент РАН"
+      },
+      "organization": {
+        "en": "LLC «Gazprom VNIIGAZ» (All-Union Scientific Research Institute of Natural Gases)",
+        "ru": "ООО «Газпром ВНИИГАЗ» (Всесоюзный научно-исследовательский институт природных газов)"
+      },
+      "image": "./journal_img/editorial_board/journalA/5_grigoriev.jpg"
+    },
+    {
+      "position": {
+        "en": "EDITORIAL COUNCIL",
+        "ru": "РЕДАКЦИОННЫЙ СОВЕТ"
+      },
+      "name": {
+        "en": "Denis Rechenko",
+        "ru": "Реченко Денис Сергеевич"
+      },
+      "degree": {
+        "en": "Doctor in Engineering",
+        "ru": "д.т.н., профессор"
+      },
+      "organization": {
+        "en": "Almetyevsk State Petroleum Institute (ASOI)",
+        "ru": "ГБОУ ВО Альметьевский государственный нефтяной институт (АГНИ)"
+      },
+      "image": "./journal_img/editorial_board/journalA/6_Реченко_ДС.png"
+    },
+    {
+      "position": {
+        "en": "EDITORIAL COUNCIL",
+        "ru": "РЕДАКЦИОННЫЙ СОВЕТ"
+      },
+      "name": {
+        "en": "Magomed Pashaev",
+        "ru": "Пашаев Магомед Ярагиевич"
+      },
+      "degree": {
+        "en": "Phd in Engineering",
+        "ru": "к.т.н., доцент"
+      },
+      "organization": {
+        "en": "Federal State Budgetary Educational Institution of Higher Education «Grozny State Oil Technical University named after acad. M.D. Millionshchikov» (GSTOU)",
+        "ru": "ФГБОУ ВО «Грозненский государственный нефтяной технический университет имени академика М.Д. Миллионщикова» (ГГНТУ)"
+      },
+      "image": "./journal_img/editorial_board/journalA/7_pashaev.jpg"
+    },
+    {
+      "position": {
+        "en": "EDITORIAL COUNCIL",
+        "ru": "РЕДАКЦИОННЫЙ СОВЕТ"
+      },
+      "name": {
+        "en": "Magomed Saidumov",
+        "ru": "Сайдумов Магомед Саламувич"
+      },
+      "degree": {
+        "en": "Phd in Engineering",
+        "ru": "к.т.н."
+      },
+      "organization": {
+        "en": "Federal State Budgetary Educational Institution of Higher Education «Grozny State Oil Technical University named after acad. M.D. Millionshchikov» (GSTOU)",
+        "ru": "ФГБОУ ВО «Грозненский государственный нефтяной технический университет имени академика М.Д. Миллионщикова» (ГГНТУ)"
+      },
+      "image": "./journal_img/editorial_board/journalA/8_saidumov.jpg"
+    },
+    {
+      "position": {
+        "en": "EDITORIAL BOARD - Architecture",
+        "ru": "РЕДАКЦИОННАЯ КОЛЛЕГИЯ - Строительство. Архитектура"
+      },
+      "name": {
+        "en": "Khadzhishalapov Gadzhimagomed",
+        "ru": "Хаджишалапов Гаджимагомед Нурмагомедович"
+      },
+      "degree": {
+        "en": "Doctor in Engineering",
+        "ru": "д.т.н., профессор"
+      },
+      "organization": {
+        "en": "Federal State Budgetary Educational Institution of Higher Education «Dagestan State Technical University» (DSTU)",
+        "ru": "ФГБОУ ВО «Дагестанский государственный технический университет» (ДГТУ)"
+      },
+      "image": "./journal_img/editorial_board/journalA/9_хаджишалапов.jpg"
+    },
+    {
+      "position": {
+        "en": "EDITORIAL BOARD - Architecture",
+        "ru": "РЕДАКЦИОННАЯ КОЛЛЕГИЯ - Строительство. Архитектура"
+      },
+      "name": {
+        "en": "Dena Bataev",
+        "ru": "Батаев Дена Карим-Султанович"
+      },
+      "degree": {
+        "en": "Doctor in Engineering",
+        "ru": "д.т.н., профессор"
+      },
+      "organization": {
+        "en": "Federal State Budgetary Institution of Science Integrated Research Institute named after H.I. Ibragimov of the Russian Academy of Sciences (SRI of RAS named after Kh.I. Ibragimov)",
+        "ru": "Комплексный научно-исследовательский институт им. Х.И. Ибрагимова Российской академии наук Чеченская Республика (КНИИ им. Х.И. Ибрагимова РАН ЧР)"
+      },
+      "image": "./journal_img/editorial_board/journalA/10_батаев_Дена.jpg"
+    },
+    {
+      "position": {
+        "en": "EDITORIAL BOARD - Architecture",
+        "ru": "РЕДАКЦИОННАЯ КОЛЛЕГИЯ - Строительство. Архитектура"
+      },
+      "name": {
+        "en": "Ibragim Gayrabekov",
+        "ru": "Гайрабеков Ибрагим Геланиевич"
+      },
+      "degree": {
+        "en": "Doctor in Engineering",
+        "ru": "д.т.н., доцент"
+      },
+      "organization": {
+        "en": "Federal State Budgetary Educational Institution of Higher Education «Grozny State Oil Technical University named after acad. M.D. Millionshchikov» (GSTOU)",
+        "ru": "ФГБОУ ВО «Грозненский государственный нефтяной технический университет имени академика М.Д. Миллионщикова» (ГГНТУ)"
+      },
+      "image": "./journal_img/editorial_board/journalA/11_gairabekov.jpg"
+    },
+    {
+      "position": {
+        "en": "EDITORIAL BOARD - Architecture",
+        "ru": "РЕДАКЦИОННАЯ КОЛЛЕГИЯ - Строительство. Архитектура"
+      },
+      "name": {
+        "en": "Khasan Mazhiev",
+        "ru": "Мажиев Хасан Нажоевич"
+      },
+      "degree": {
+        "en": "Doctor in Engineering",
+        "ru": "д.т.н., профессор"
+      },
+      "organization": {
+        "en": "Federal State Budgetary Educational Institution of Higher Education «Grozny State Oil Technical University named after acad. M.D. Millionshchikov» (GSTOU)",
+        "ru": "ФГБОУ ВО «Грозненский государственный нефтяной технический университет имени академика М.Д. Миллионщикова» (ГГНТУ)"
+      },
+      "image": "./journal_img/editorial_board/journalA/12_Мажиев.jpg"
+    },
+    {
+      "position": {
+        "en": "EDITORIAL BOARD - Architecture",
+        "ru": "РЕДАКЦИОННАЯ КОЛЛЕГИЯ - Строительство. Архитектура"
+      },
+      "name": {
+        "en": "Shadid Nasukhanov",
+        "ru": "Насуханов Шадид Абубакарович"
+      },
+      "degree": {
+        "en": "PhD in Architecture",
+        "ru": "канд. архитектуры, доцент"
+      },
+      "organization": {
+        "en": "Federal State Budgetary Educational Institution of Higher Education «Grozny State Oil Technical University named after acad. M.D. Millionshchikov» (GSTOU)",
+        "ru": "ФГБОУ ВО «Грозненский государственный нефтяной технический университет имени академика М.Д. Миллионщикова» (ГГНТУ)"
+      },
+      "image": "./journal_img/editorial_board/journalA/13_Шадид_Насуханов.jpg"
+    },
+    {
+      "position": {
+        "en": "EDITORIAL BOARD - Architecture",
+        "ru": "РЕДАКЦИОННАЯ КОЛЛЕГИЯ - Строительство. Архитектура"
+      },
+      "name": {
+        "en": "Tolya Khezhev",
+        "ru": "Хежев Толя Амирович"
+      },
+      "degree": {
+        "en": "Doctor in Engineering",
+        "ru": "д.т.н., профессор"
+      },
+      "organization": {
+        "en": "Educational Institution of Higher Education «Kabardino-Balkarian State University named after Kh.M. Berbekov» (KBSU named after Kh.M. Berbekov)",
+        "ru": "ФГБОУ ВО «Кабардино-Балкарский государственный университет им. Х.М. Бербекова» (КБГУ им. Х.М. Бербекова)"
+      },
+      "image": "./journal_img/editorial_board/journalA/14_Хежев_фото.jpg"
+    },
+    {
+      "position": {
+        "en": "EDITORIAL BOARD - Architecture",
+        "ru": "РЕДАКЦИОННАЯ КОЛЛЕГИЯ - Строительство. Архитектура"
+      },
+      "name": {
+        "en": "Zaur Khakimov",
+        "ru": "Хакимов Заур Леччиевич"
+      },
+      "degree": {
+        "en": "Phd in Engineering",
+        "ru": "к.т.н."
+      },
+      "organization": {
+        "en": "Federal State Budgetary Educational Institution of Higher Education «Grozny State Oil Technical University named after acad. M.D. Millionshchikov» (GSTOU)",
+        "ru": "ФГБОУ ВО «Грозненский государственный нефтяной технический университет имени академика М.Д. Миллионщикова» (ГГНТУ)"
+      },
+      "image": "./journal_img/editorial_board/journalA/15_Хакимов.jpg"
+    },
+    {
+      "position": {
+        "en": "EDITORIAL BOARD - Architecture",
+        "ru": "РЕДАКЦИОННАЯ КОЛЛЕГИЯ - Строительство. Архитектура"
+      },
+      "name": {
+        "en": "Madina Isaeva",
+        "ru": "Исаева Мадина Ризвановна"
+      },
+      "degree": {
+        "en": "Phd in Engineering",
+        "ru": "к.т.н."
+      },
+      "organization": {
+        "en": "Federal State Budgetary Educational Institution of Higher Education «Grozny State Oil Technical University named after acad. M.D. Millionshchikov» (GSTOU)",
+        "ru": "ФГБОУ ВО «Грозненский государственный нефтяной технический университет имени академика М.Д. Миллионщикова» (ГГНТУ)"
+      },
+      "image": "./journal_img/editorial_board/journalA/16_Исаева.jpg"
+    },
+    {
+      "position": {
+        "en": "EDITORIAL BOARD - Chemical Technology",
+        "ru": "РЕДАКЦИОННАЯ КОЛЛЕГИЯ - Химическая технология"
+      },
+      "name": {
+        "en": "Lyubov Makmudova",
+        "ru": "Махмудова Любовь Ширваниевна"
+      },
+      "degree": {
+        "en": "Doctor in Engineering",
+        "ru": "д.т.н., профессор"
+      },
+      "organization": {
+        "en": "Federal State Budgetary Educational Institution of Higher Education «Grozny State Oil Technical University named after acad. M.D. Millionshchikov» (GSTOU)",
+        "ru": "ФГБОУ ВО «Грозненский государственный нефтяной технический университет имени академика М.Д. Миллионщикова» (ГГНТУ)"
+      },
+      "image": "./journal_img/editorial_board/journalA/17_Махмудова.jpg"
+    },
+    {
+      "position": {
+        "en": "EDITORIAL BOARD - Chemical Technology",
+        "ru": "РЕДАКЦИОННАЯ КОЛЛЕГИЯ - Химическая технология"
+      },
+      "name": {
+        "en": "Khusain Kadiev",
+        "ru": "Кадиев Хусаин Магамедович"
+      },
+      "degree": {
+        "en": "Doctor in Chemistry",
+        "ru": "д.х.н."
+      },
+      "organization": {
+        "en": "Institute of Petrochemical Synthesis of Russian Academy of Sciences (IPS of RAS)",
+        "ru": "Учреждение Российской академии наук Ордена Трудового Красного Знамени Институт нефтехимического синтеза им. А.В.Топчиева (ИНХС РАН)"
+      },
+      "image": "./journal_img/editorial_board/journalA/18_khusain-kadiev-.jpg"
+    },
+    {
+      "position": {
+        "en": "EDITORIAL BOARD - Chemical Technology",
+        "ru": "РЕДАКЦИОННАЯ КОЛЛЕГИЯ - Химическая технология"
+      },
+      "name": {
+        "en": "Khava Akhmadova",
+        "ru": "Ахмадова Хава Хамидовна"
+      },
+      "degree": {
+        "en": "Doctor in Engineering",
+        "ru": "д.т.н., профессор"
+      },
+      "organization": {
+        "en": "Federal State Budgetary Educational Institution of Higher Education «Grozny State Oil Technical University named after acad. M.D. Millionshchikov» (GSTOU)",
+        "ru": "ФГБОУ ВО «Грозненский государственный нефтяной технический университет имени академика М.Д. Миллионщикова» (ГГНТУ)"
+      },
+      "image": "./journal_img/editorial_board/journalA/19_ахмадова_хава_хамидовна.png"
+    },
+    {
+      "position": {
+        "en": "EDITORIAL BOARD - Chemical Technology",
+        "ru": "РЕДАКЦИОННАЯ КОЛЛЕГИЯ - Химическая технология"
+      },
+      "name": {
+        "en": "Olga Karatun",
+        "ru": "Каратун Ольга Николаевна"
+      },
+      "degree": {
+        "en": "Doctor in Engineering",
+        "ru": "д.т.н. профессор"
+      },
+      "organization": {
+        "en": "LLC «Gazprom mining Astrakhan»",
+        "ru": "ООО «Газпром добыча Астрахань»"
+      },
+      "image": "./journal_img/editorial_board/journalA/20_Karatun.jpg"
+    },
+    {
+      "position": {
+        "en": "EDITORIAL BOARD - Chemical Technology",
+        "ru": "РЕДАКЦИОННАЯ КОЛЛЕГИЯ - Химическая технология"
+      },
+      "name": {
+        "en": "Elvira Alexandrova",
+        "ru": "Александрова Эльвира Александровна"
+      },
+      "degree": {
+        "en": "Doctor in Chemistry",
+        "ru": "д.х.н., профессор"
+      },
+      "organization": {
+        "en": "Federal State Budgetary Educational Institution of Higher Education «Kuban State University. I.T. Trubilina» (KBSAU)",
+        "ru": "ФГБОУ ВО «Кубанский государственный университет им. И.Т. Трубилина» (КБГАУ)"
+      },
+      "image": "./journal_img/editorial_board/journalA/21_александрова_эльвира.jpg"
+    },
+    {
+      "position": {
+        "en": "EDITORIAL BOARD - Chemical Technology",
+        "ru": "РЕДАКЦИОННАЯ КОЛЛЕГИЯ - Химическая технология"
+      },
+      "name": {
+        "en": "Ayub Elmurzaev",
+        "ru": "Эльмурзаев Аюб Абдулаевич"
+      },
+      "degree": {
+        "en": "PhD in Engineering",
+        "ru": "к.т.н., доцент"
+      },
+      "organization": {
+        "en": "Federal State Budgetary Educational Institution of Higher Education «Grozny State Oil Technical University named after acad. M.D. Millionshchikov» (GSTOU)",
+        "ru": "ФГБОУ ВО «Грозненский государственный нефтяной технический университет имени академика М.Д. Миллионщикова» (ГГНТУ)"
+      },
+      "image": "./journal_img/editorial_board/journalA/22_Аюб_эльмурзаев.jpg"
+    },
+    {
+      "position": {
+        "en": "EDITORIAL BOARD - Chemical Technology",
+        "ru": "РЕДАКЦИОННАЯ КОЛЛЕГИЯ - Химическая технология"
+      },
+      "name": {
+        "en": "Serguey Ivanov",
+        "ru": "Иванов Сергей Петрович"
+      },
+      "degree": {
+        "en": "Doctor in Engineering",
+        "ru": "д.т.н., доцент"
+      },
+      "organization": {
+        "en": "Federal State Budgetary Educational Institution of Higher Education «Ufa State Oil Technical University» (USPTU)",
+        "ru": "ФГБОУ ВО «Уфимский Государственный нефтяной технический университет» (УГНТУ)"
+      },
+      "image": "./journal_img/editorial_board/journalA/23_Иванов_Сергей.jpg"
+    },
+    {
+      "position": {
+        "en": "EDITORIAL BOARD - COMPUTER SCIENCE, COMPUTER ENGINEERING AND MANAGEMENT",
+        "ru": "РЕДАКЦИОННАЯ КОЛЛЕГИЯ - Информатика, вычислительная техника и управление"
+      },
+      "name": {
+        "en": "Andrey Ilyukhin",
+        "ru": "Илюхин Андрей Владимирович"
+      },
+      "degree": {
+        "en": "Doctor in Engineering",
+        "ru": "д.т.н., профессор"
+      },
+      "organization": {
+        "en": "Federal State Budgetary Educational Institution of Higher Education «Moscow Automobile and Highway State Technical University» (MADI)",
+        "ru": "ФГБОУ ВО \"Московский автомобильно-дорожный государственный технический университет\" (МАДИ)"
+      },
+      "image": "./journal_img/editorial_board/journalA/24_Илюхин.jpg"
+    },
+    {
+      "position": {
+        "en": "EDITORIAL BOARD - COMPUTER SCIENCE, COMPUTER ENGINEERING AND MANAGEMENT",
+        "ru": "РЕДАКЦИОННАЯ КОЛЛЕГИЯ - Информатика, вычислительная техника и управление"
+      },
+      "name": {
+        "en": "Vadim Marsov",
+        "ru": "Марсов Вадим Израилевич"
+      },
+      "degree": {
+        "en": "Doctor in Engineering",
+        "ru": "д.т.н., профессор"
+      },
+      "organization": {
+        "en": "Federal State Budgetary Educational Institution of Higher Education «Moscow Automobile and Highway State Technical University» (MADI)",
+        "ru": "ФГБОУ ВО «Московский автомобильно-дорожный государственный технический университет» (МАДИ)"
+      },
+      "image": "./journal_img/editorial_board/journalA/25_Марсов.jpg"
+    },
+    {
+      "position": {
+        "en": "EDITORIAL BOARD - COMPUTER SCIENCE, COMPUTER ENGINEERING AND MANAGEMENT",
+        "ru": "РЕДАКЦИОННАЯ КОЛЛЕГИЯ - Информатика, вычислительная техника и управление"
+      },
+      "name": {
+        "en": "Alexander Rutkovsky",
+        "ru": "Рутковский Александр Леонидович"
+      },
+      "degree": {
+        "en": "Doctor in Engineering",
+        "ru": "д.т.н., профессор"
+      },
+      "organization": {
+        "en": "Federal State Budgetary Educational Institution of Higher Education «North Caucasus Mining and Metallurgical Institute (State Technological University)» (NCNMI STU)",
+        "ru": "ФГБОУ ВО «Северо-Кавказский горно-металлургический институт (государственный технологический университет)» (СКГМИ ГТУ)"
+      },
+      "image": "./journal_img/editorial_board/journalA/26_Рутковский.jpg"
+    },
+    {
+      "position": {
+        "en": "EDITORIAL BOARD - COMPUTER SCIENCE, COMPUTER ENGINEERING AND MANAGEMENT",
+        "ru": "РЕДАКЦИОННАЯ КОЛЛЕГИЯ - Информатика, вычислительная техника и управление"
+      },
+      "name": {
+        "en": "Elena Khadzaragova",
+        "ru": "Хадзарагова Елена Александровна"
+      },
+      "degree": {
+        "en": "Doctor in Engineering",
+        "ru": ""
+      },
+      "organization": {
+        "en": "Federal State Budgetary Educational Institution of Higher Education «North Caucasus Mining and Metallurgical Institute (State Technological University)»  (NCNMI STU)",
+        "ru": "ФГБОУ ВО «Северо-Кавказский горно-металлургический институт (государственный технологический университет)» (СКГМИ ГТУ)"
+      },
+      "image": "./journal_img/editorial_board/journalA/27_hadzaragovajpg.jpg"
+    },
+    {
+      "position": {
+        "en": "EDITORIAL BOARD - COMPUTER SCIENCE, COMPUTER ENGINEERING AND MANAGEMENT",
+        "ru": "РЕДАКЦИОННАЯ КОЛЛЕГИЯ - Информатика, вычислительная техника и управление"
+      },
+      "name": {
+        "en": "Manap Khazhmuradov",
+        "ru": "Хажмурадов Манап Ахмадович"
+      },
+      "degree": {
+        "en": "Doctor in Engineering",
+        "ru": "д.т.н."
+      },
+      "organization": {
+        "en": "National Research Center «Kharkov Institute of Physics and Technology» (KIPT)",
+        "ru": "Национальный научный центр «Харьковский физико-технический институт» (ННЦ ХФТИ)"
+      },
+      "image": "./journal_img/editorial_board/journalA/28_Хажмурадов.jpg"
+    },
+    {
+      "position": {
+        "en": "EDITORIAL BOARD - COMPUTER SCIENCE, COMPUTER ENGINEERING AND MANAGEMENT",
+        "ru": "РЕДАКЦИОННАЯ КОЛЛЕГИЯ - Информатика, вычислительная техника и управление"
+      },
+      "name": {
+        "en": "Esmira Alisultanova",
+        "ru": "Алисултанова Эсмира Докуевна"
+      },
+      "degree": {
+        "en": "Doctor in Pedagogics, Professor",
+        "ru": "д.п.н., профессор"
+      },
+      "organization": {
+        "en": "Federal State Budgetary Educational Institution of Higher Education «Grozny State Oil Technical University named after acad. M.D. Millionshchikov» (GSTOU)",
+        "ru": "ФГБОУ ВО «Грозненский государственный нефтяной технический университет имени академика М.Д. Миллионщикова» (ГГНТУ)"
+      },
+      "image": "./journal_img/editorial_board/journalA/29_Alisultanova.jpg"
+    },
+    {
+      "position": {
+        "en": "EDITORIAL BOARD - COMPUTER SCIENCE, COMPUTER ENGINEERING AND MANAGEMENT",
+        "ru": "РЕДАКЦИОННАЯ КОЛЛЕГИЯ - Информатика, вычислительная техника и управление"
+      },
+      "name": {
+        "en": "Iskandar Azhmukhamedov",
+        "ru": "Ажмухамедов Искандар Маратович"
+      },
+      "degree": {
+        "en": "Doctor in Engineering, Professor",
+        "ru": "д.т.н., профессор"
+      },
+      "organization": {
+        "en": "Federal State Budgetary Educational Institution of Higher Education «Astrakhan State University» (ASU)",
+        "ru": "ФГБОУ ВО «Астраханский государственный университет» (АГУ)"
+      },
+      "image": "./journal_img/editorial_board/journalA/30_Ажмухамедов_Искандар.jpg"
+    },
+    {
+      "position": {
+        "en": "EDITORIAL BOARD - COMPUTER SCIENCE, COMPUTER ENGINEERING AND MANAGEMENT",
+        "ru": "РЕДАКЦИОННАЯ КОЛЛЕГИЯ - Информатика, вычислительная техника и управление"
+      },
+      "name": {
+        "en": "Konstantin Rumyantsev",
+        "ru": "Румянцев Констнтин Евгеньевич"
+      },
+      "degree": {
+        "en": "Doctor in Engineering, Professor",
+        "ru": "д.т.н., профессор"
+      },
+      "organization": {
+        "en": "Doctor in Engineering, Professor Federal State Autonomous Educational Institution of Higher Education «Southern Federal University» (SFU)",
+        "ru": "ФГАОУ ВО «Южный Федеральный Университет» (ЮФУ)"
+      },
+      "image": "./journal_img/editorial_board/journalA/31_Румянцев.jpg"
+    },
+    {
+      "position": {
+        "en": "EDITORIAL BOARD - COMPUTER SCIENCE, COMPUTER ENGINEERING AND MANAGEMENT",
+        "ru": "РЕДАКЦИОННАЯ КОЛЛЕГИЯ - Информатика, вычислительная техника и управление"
+      },
+      "name": {
+        "en": "Ibragim Khasambiev",
+        "ru": "Хасамбиев Ибрагим Вахаевич"
+      },
+      "degree": {
+        "en": "Phd in Engineering",
+        "ru": "к.т.н."
+      },
+      "organization": {
+        "en": "Federal State Budgetary Educational Institution of Higher Education «Grozny State Oil Technical University named after acad. M.D. Millionshchikov» (GSTOU)",
+        "ru": "ФГБОУ ВО «Грозненский государственный нефтяной технический университет имени академика М.Д. Миллионщикова» (ГГНТУ)"
+      },
+      "image": "./journal_img/editorial_board/journalA/32_hasambiev.jpg"
+    }
+  ]
+}
